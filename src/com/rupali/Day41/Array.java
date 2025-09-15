@@ -4,7 +4,7 @@ public class Array {
         int[] arr2 = new int[5];
         int[] arr = { 12, 34, 13, 53, 57 };
         for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
+            System.out.print(arr[i] + " ");
         }
     }
 }

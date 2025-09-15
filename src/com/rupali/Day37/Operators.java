@@ -1,7 +1,5 @@
 package com.rupali.Day37;
 
-
-
 public class Operators {
     public static void main(String[] var0) {
         int var1 = 12;

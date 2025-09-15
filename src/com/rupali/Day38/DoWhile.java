@@ -8,6 +8,5 @@ public class DoWhile {
             System.out.println(var1);
             --var1;
         } while(var1 > 1);
-
     }
 }
