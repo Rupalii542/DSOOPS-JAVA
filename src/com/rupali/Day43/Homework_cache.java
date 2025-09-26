@@ -7,10 +7,8 @@ public class Homework_cache {
         System.out.println("Enter size of cache: ");
         int size = sc.nextInt();
         String[] cache = new String[size];
-
         System.out.println("Enter number of initial search terms: ");
         int ele = sc.nextInt();
-
         System.out.println("Enter search terms: ");
         for (int i = 0; i < ele; i++) {
             cache[i] = sc.next();

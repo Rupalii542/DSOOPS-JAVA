@@ -1,5 +1,4 @@
 package com.rupali.Day46;
-
 public class DiagonalSum {
     public static void main(String args[]){
         int[][] matrix = {
