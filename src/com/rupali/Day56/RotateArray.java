@@ -7,7 +7,6 @@ public class RotateArray {
            nums[(i+k)%n]=copy[i];
         }
     }
-
     public static void main(String[] args) {
         RotateArray rotate=new RotateArray();
         int [] nums={1,2,3,4,5,6,7};
